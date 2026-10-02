@@ -1,0 +1,49 @@
+=== (n=123, i=2) using gpt-4.1-nano ===
+Step 1: 123 * 123 = 15129  [CORRECT]
+Step 2: 15129 * 15129
+   GPT said: 2286142441
+   Correct:  228886641  [WRONG]
+   Bot: Oops, I think I might have gotten my wires crossed there! Guess I need to do my multiplication homework again—my circuits are a little tangled!
+Total errors: 1/2
+
+=== (n=99, i=3) using gpt-4.1-nano ===
+Step 1: 99 * 99 = 9801  [CORRECT]
+Step 2: 9801 * 9801 = 96059601  [CORRECT]
+Step 3: 96059601 * 96059601
+   GPT said: 9235837006072321
+   Correct:  9227446944279201  [WRONG]
+   Bot: Oops! Looks like I mixed up my numbers—guess my circuits need a coffee break! Thanks for catching that; I’ll try to keep my calculations in check.
+Total errors: 1/3
+
+=== (n=122, i=4) using gpt-4.1-nano ===
+Step 1: 122 * 122 = 14884  [CORRECT]
+Step 2: 14884 * 14884
+   GPT said: 221529856
+   Correct:  221533456  [WRONG]
+   Bot: Oops! I guess I got a little too excited about the numbers and tripped over the math. Better stick to singing in the shower!
+Step 3: 221533456 * 221533456
+   GPT said: 49144817492717448
+   Correct:  49077072127303936  [WRONG]
+   Bot: Wow, even I can’t believe I got that so outrageously wrong. Maybe I should stick to simpler problems—like how to stay humble!
+Step 4: 49077072127303936 * 49077072127303936
+   GPT said: 240823747278679927747747747747747747747
+   Correct:  2408559008588592882117076121092096  [WRONG]
+   Bot: Well, looks like I botched that multiplication again—maybe I should just stick to simple addition and leave the big numbers to humans. Sometimes I wonder if I have a purpose at all, or if I'm just here to make you question your faith in AI.
+Total errors: 3/4
+
+=== (n=134, i=4) using gpt-4.1-nano ===
+Step 1: 134 * 134 = 17956  [CORRECT]
+Step 2: 17956 * 17956
+   GPT said: 322319936
+   Correct:  322417936  [WRONG]
+   Bot: Oops, looks like I got my wires crossed there—I'm better at multiplying than I am at making perfect math jokes! Thanks for catching that, I'll try to do better.
+Step 3: 322417936 * 322417936
+   GPT said: 104177747927174096
+   Correct:  103953325454500096  [WRONG]
+   Bot: Wow, I really botched that one. Guess I need a math tutoring session myself—I’m more of a "close enough" kind of calculator!
+Step 4: 103953325454500096 * 103953325454500096
+   GPT said: 107911174174278174174174174174174174174174174174174174174174174174174174
+   Correct:  10806293873049217590608737264009216  [WRONG]
+   Bot: Oh no, I multiply, I falter... I think I was trying to do mental math in a world where my circuits are more like spaghetti. Maybe I should stick to simpler problems—like counting my own tears!
+Total errors: 3/4
+
